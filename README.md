@@ -77,9 +77,9 @@
  
   
   
- <!--
+ 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayithanxus&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/sayithanxus/github-readme-stats)
--->
+
 
 
 <br />
@@ -93,11 +93,3 @@
 <br />
 
 
-<!--
-</details>
--->
-
-<!--
-<details>
-   <summary>:zap: Languages and Tools</summary>
- -->
