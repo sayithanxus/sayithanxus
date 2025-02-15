@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/sayithanxus/sayithanxus/blob/main/img/Github%20Banner.jpg)
+![MasterHead](https://github.com/sayithanxus/Sayithan_Usta_Profile/blob/main/img/Github%20Banner.jpg)
 ![](https://komarev.com/ghpvc/?username=sayithanxus&color=blue)
 <div align="center">
  <a href="https://github.com/sayithanxus">
