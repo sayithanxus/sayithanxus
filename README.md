@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **sayit2828@hotmail.com**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/sayithanxus?theme=unicorn)](https://leetcode.com/sayithanxus/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
