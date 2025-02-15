@@ -15,10 +15,9 @@
 
 - 💬 Ask me about **.NET**
 
-- 📫 How to reach me **sayit2828@hotmail.com**
+- 📫 How to reach- 📫 How to reach me **sayit2828@hotmail.com**
 
-
-<h3 align="left">Connect with me:</h3>
+ with me:</h3>
 <p align="left">
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a href="https://www.linkedin.com/in/sayithan-usta-aa34b4202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="çağatay akkaş" height="30" width="40" /></a>
@@ -30,7 +29,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatCagatayAkkasut/github-contribution-grid-snake.svg">
 </picture>
 
 
@@ -77,7 +76,7 @@
   
   
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayithanxus&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/sayithanxus/github-readme-stats)
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayithanxus&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/sayithanxus/github-readme-stats) -->
 
 
 
@@ -92,3 +91,4 @@
 <br />
 
 
+<!--
